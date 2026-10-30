@@ -10,7 +10,7 @@ Global options on every command: `--json` (machine-readable output), `-h` / `--h
 
 | Command | What it does | Who |
 | --- | --- | --- |
-| `sno setup [--harness claude,codex,hermes,openclaw] [--memory-mode local-first\|agent-native\|rem-enhanced] [PRODUCT]` | Installs Station: Reach, the small programs, the skills, memory, hooks, the nightly timer. Never writes any command other than `sno` to PATH | you or an agent |
+| `sno setup [--harness claude,codex,cursor,hermes,openclaw] [--memory-mode local-first\|agent-native\|rem-enhanced] [PRODUCT]` | Installs Station: Reach, the small programs, the skills, memory, hooks, the nightly timer. Never writes any command other than `sno` to PATH | you or an agent |
 | `sno init` | Prepares the CLI's own state and entry skills without installing Station | you or an agent |
 | `sno update [--reach-version V] [--skills-version V] [--memory-mode M] [--harness H]` | Updates the CLI and everything installed; removes leftover command files an older setup wrote | you or a timer |
 | `sno uninstall [PRODUCT] [--yes] [--purge-state]` | Removes one product or all; without a name it lists what is installed | you |
@@ -34,7 +34,7 @@ Global options on every command: `--json` (machine-readable output), `-h` / `--h
 
 | Command | What it does | Who |
 | --- | --- | --- |
-| `sno memory remember --harness claude\|codex TEXT` | Stores a project memory, prints its id | an agent |
+| `sno memory remember --harness H TEXT` | Stores a project memory, prints its id | an agent |
 | `sno memory recall --harness H QUERY` | Searches project and global memory | an agent |
 | `sno memory get --harness H ID` | Prints one full memory | an agent |
 | `sno memory correct --harness H ID TEXT` | Stores a corrected memory and retires the old one | an agent |
