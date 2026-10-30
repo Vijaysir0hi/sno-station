@@ -71,7 +71,7 @@ Sno onboard
 
 나머지는 에이전트가 안내합니다. 설치가 끝나면 저절로 시작되기도 합니다.
 
-에이전트별 단계 안내: [Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../../apps/mem-cursor/README.md) · [OpenClaw](../mem-claw/onboarding.md)
+에이전트별 단계 안내: [Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../mem-cursor/onboarding.md) · [OpenClaw](../mem-claw/onboarding.md)
 
 모든 명령은 `sno`로 시작합니다. 전체 목록은 [docs/sno-commands.md](../sno-commands.md)에 있습니다.
 

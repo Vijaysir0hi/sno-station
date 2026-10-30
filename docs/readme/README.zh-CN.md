@@ -69,7 +69,7 @@ Sno onboard
 
 剩下的由你的 agent 带你完成。安装结束后，它也会自己启动。
 
-每个 agent 的分步说明：[Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../../apps/mem-cursor/README.md) · [OpenClaw](../mem-claw/onboarding.md)
+每个 agent 的分步说明：[Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../mem-cursor/onboarding.md) · [OpenClaw](../mem-claw/onboarding.md)
 
 所有命令都以 `sno` 开头。完整清单见 [docs/sno-commands.md](../sno-commands.md)。
 

@@ -71,7 +71,7 @@ Sno onboard
 
 残りはエージェントが案内します。インストールの直後には自動でも始まります。
 
-エージェントごとの手順：[Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../../apps/mem-cursor/README.md) · [OpenClaw](../mem-claw/onboarding.md)
+エージェントごとの手順：[Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../mem-cursor/onboarding.md) · [OpenClaw](../mem-claw/onboarding.md)
 
 コマンドはすべて `sno` で始まります。一覧は [docs/sno-commands.md](../sno-commands.md) にあります。
 
