@@ -69,7 +69,7 @@ Sno onboard
 
 剩下的步驟，你的代理人會帶你完成。安裝結束後，它也會自動開始。
 
-各個代理人的逐步說明：[Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../../apps/mem-cursor/README.md) · [OpenClaw](../mem-claw/onboarding.md)
+各個代理人的逐步說明：[Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../mem-cursor/onboarding.md) · [OpenClaw](../mem-claw/onboarding.md)
 
 所有指令都以 `sno` 開頭。完整清單見 [docs/sno-commands.md](../sno-commands.md)。
 

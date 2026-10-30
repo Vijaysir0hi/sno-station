@@ -74,7 +74,7 @@ Sno onboard
 
 Ihr Agent führt Sie durch den Rest. Er startet auch von selbst direkt nach der Installation.
 
-Schritt für Schritt für jeden Agenten: [Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../../apps/mem-cursor/README.md) · [OpenClaw](../mem-claw/onboarding.md)
+Schritt für Schritt für jeden Agenten: [Codex](../mem-codex/onboarding.md) · [Claude Code](../mem-claude/onboarding.md) · [Hermes](../mem-hermes/onboarding.md) · [Cursor](../mem-cursor/onboarding.md) · [OpenClaw](../mem-claw/onboarding.md)
 
 Jeder Befehl beginnt mit `sno`. Die vollständige Liste steht in [docs/sno-commands.md](../sno-commands.md).
 
