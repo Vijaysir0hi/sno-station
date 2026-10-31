@@ -7,3 +7,4 @@ records whose change it was.
 | Contributor | What was adopted |
 |---|---|
 | [@cullielika](https://github.com/cullielika) | Fixed the test commands in CONTRIBUTING.md ([#25](https://github.com/sno-ai/sno-station/pull/25)) |
+| [@Vijaysir0hi](https://github.com/Vijaysir0hi) | Cursor in the command reference and the translated READMEs ([#152](https://github.com/sno-ai/sno-station/pull/152), [#153](https://github.com/sno-ai/sno-station/pull/153)) |
