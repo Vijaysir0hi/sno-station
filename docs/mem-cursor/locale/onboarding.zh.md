@@ -11,7 +11,7 @@
 - Node.js：22 系列需 22.22.3 及以上，24 系列需 24.15.0 及以上，或 25.9.0 及以上
 - PATH 上有 `git`（memory 按你所在的 repository 划分范围）
 
-先按[记忆服务安装说明](../memory-setup.md)完成设置，再安装 Cursor 集成：
+先按[记忆服务安装说明](../../memory-setup.md)完成设置，再安装 Cursor 集成：
 
 ```bash
 sno setup --harness cursor
