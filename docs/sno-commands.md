@@ -34,7 +34,7 @@ Global options on every command: `--json` (machine-readable output), `-h` / `--h
 
 | Command | What it does | Who |
 | --- | --- | --- |
-| `sno memory remember --harness H TEXT` | Stores a project memory, prints its id | an agent |
+| `sno memory remember --harness claude\|codex\|cursor TEXT` | Stores a project memory, prints its id | an agent |
 | `sno memory recall --harness H QUERY` | Searches project and global memory | an agent |
 | `sno memory get --harness H ID` | Prints one full memory | an agent |
 | `sno memory correct --harness H ID TEXT` | Stores a corrected memory and retires the old one | an agent |
